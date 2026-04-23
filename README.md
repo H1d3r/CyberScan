@@ -271,25 +271,18 @@ WARNING: No route found for IPv6 destination :: (no default route?)
 Contact
 ----
 
-<!-- X (Twitter) -->
-[<img align="left" alt="X" width="26px" src="http://i.imgur.com/tXSoThF.png" style="padding-right:10px;" />][10]
 
-<!-- GitHub -->
-[<img align="left" alt="GitHub" width="26px" src="http://i.imgur.com/0o48UoR.png" style="padding-right:10px;" />][20]
+[10.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[20.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
-[10.1]: https://cdn.simpleicons.org/x/000000
-[20.1]: https://cdn.simpleicons.org/github/000000
-[30.1]: https://cdn.simpleicons.org/linkedin/000000
 
-[10]: https://x.com/medbenali_cyber
+[10]: https://twitter.com/007Hamoud
 [20]: https://www.github.com/medbenali
-[30]: https://www.linkedin.com/in/medbenali
+
 
 #### BEN ALI Mohamed 
-[<img align="left" alt="X" width="26px" src="https://cdn.simpleicons.org/x/000000" style="padding-right:10px;" />][10]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.simpleicons.org/github/000000" style="padding-right:10px;" />][20]
-[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.simpleicons.org/linkedin/000000" style="padding-right:10px;" />][30]
-
+[![alt text][10.1]][10]
+[![alt text][20.1]][20]
 ##### Email : mohamed.benali@esprit.tn
 
 
