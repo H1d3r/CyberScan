@@ -276,14 +276,16 @@ Contact
 [20.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 
-[10]: https://twitter.com/007Hamoud
+[10]: https://x.com/medbenali_cyber
 [20]: https://www.github.com/medbenali
 
 
 #### BEN ALI Mohamed 
 [![alt text][10.1]][10]
 [![alt text][20.1]][20]
+
 ##### Email : mohamed.benali@esprit.tn
+##### LinkedIn : https://linkedin.com/in/medbenali
 
 
 
