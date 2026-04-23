@@ -272,8 +272,8 @@ Contact
 ----
 
 
-[10.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[20.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[10.1]: http://i.imgur.com/tXSoThF.png
+[20.1]: http://i.imgur.com/0o48UoR.png 
 
 
 [10]: https://x.com/medbenali_cyber
